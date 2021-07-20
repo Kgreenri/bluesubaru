@@ -1,0 +1,31 @@
+body{
+	background: #999999;
+	font-family: "helvetica", "arial", "sans-serif";
+    text-align: center;/*centers content in a region*/
+	}
+	
+h1{
+	margin-top: 0px;
+	font-size: 4em;
+	}
+	
+.pic1{
+	width: 39%;
+	border: 5px solid #000000
+	}
+	
+.pic2{
+	width: 52%;
+	border: 5px solid #000000
+	}
+	
+.pic3{
+	width: 44%;
+	border: 5px solid #000000
+	}
+		
+a:link{text-decoration: none; color: #aca5a5; margin: 10px; background: #999999; padding: 6px;}
+a:visted{text-decoration: none; color: #cccccc; margin: 10px; background: #555555; padding: 6px;}
+a:active{text-decoration: none; color: #cccccc; margin: 10px; background: #555555; padding: 6px;}
+a:hover{text-decoration: none; color: #1d13aa; margin: 10px; background: #cccccc; padding: 6px;}
+	
